@@ -1,3 +1,15 @@
+🤖 ShellRunner Telegram Bot 🚀
+
+This repository hosts a fully functional Telegram bot capable of executing commands and streaming live output back to users. Send a command, and watch as the bot executes it in real-time, providing you with the output. Plus, you can interact with the commands by replying to the output messages, enabling seamless communication.
+
+This bot is not your average run-of-the-mill executioner. It simulates a terminal environment, interpreting escape sequences, and dynamically updating messages if their content changes. This means interactive programs like wget function naturally, with status bars updating in real-time.
+
+In addition to command execution, the bot supports file uploads and downloads, making it versatile for various tasks. Need to quickly edit a text file? No problem! The bot also features a simple text editor for added convenience.
+
+Join the bot revolution and streamline your command execution and file management tasks effortlessly!
+
+🔧 Feel free to contribute and enhance this project further! Let's make it even more awesome together! 💻
+
 
 
 **Note:** Due to the tight integration, running this bot on Windows is
