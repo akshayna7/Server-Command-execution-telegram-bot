@@ -1,0 +1,24 @@
+{
+  "name": "bot",
+  "private": true,
+  "version": "0.0.1",
+  "keywords": [
+    "telegram",
+    "bot",
+    "shell",
+    "terminal",
+    "botgram"
+  ],
+  "dependencies": {
+    "botgram": "^2.2",
+    "escape-html": "1",
+    "mime": "1",
+    "node-pty": "^0.9.0",
+    "node-termios": "0.0.13",
+    "terminal.js": "1.0.9"
+  },
+  "optionalDependencies": {
+    "https-proxy-agent": "^5.0.0",
+    "socks-proxy-agent": "^4.0.1"
+  }
+}
